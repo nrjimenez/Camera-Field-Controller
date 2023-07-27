@@ -1,0 +1,5 @@
+Arduino MegaAVR Libraries 1.8.8
+Adafruit GFX 1.11.7
+Adafruit SH110x 2.1.9
+Adafruit BusIO 1.14.2
+AceButton 1.10.1
